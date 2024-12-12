@@ -8,8 +8,8 @@
 
 ## 设计效果
 
-![浏览](D:\github\HIT-PPT-Theme\pic\浏览.png)
+![浏览](https://cdn.jsdelivr.net/gh/huyingjiao/hyj-markdown-picture/202412121718742.png)
 
 ## 联系
 
-如果有想法改进的联系邮箱：hithuyingjiao@163.com
+如果有想法改进的联系邮箱：yingjiaohu@qq.com
