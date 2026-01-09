@@ -12,6 +12,4 @@
 
 ## 联系
 
-如果有修改意见，请联系我：
-
-yingjiaohu@qq.com or yingjiaohu@outlook.com
+如果有想法改进的联系邮箱：yingjiaohu@qq.com
