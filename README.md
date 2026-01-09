@@ -8,8 +8,11 @@
 
 ## 设计效果
 
-![浏览](https://cdn.jsdelivr.net/gh/huyingjiao/hyj-markdown-picture/202412121718742.png)
+![alt text](素材/旧版的效果图.png)
+## 采用了哈工大蓝主题颜色
+![alt text](素材/哈工大蓝.png)
+RGB: 0,83,117
+### 更改后的效果
+![alt text](素材/新版的主题颜色.png)
+更多的内容，可以在幻灯片母版中看到
 
-## 联系
-
-如果有想法改进的联系邮箱：yingjiaohu@qq.com
